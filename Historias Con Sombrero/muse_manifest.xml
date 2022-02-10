@@ -1,0 +1,103 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.historiasconsombrero.com" resolutions="1x" timestamp="1644388854305">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3927008801" ref="index"/>
+    <file name="cual-es-tu-historia-con-sombrero.css" crc="23925436" ref="cual-es-tu-historia-con-sombrero"/>
+    <file name="isabel.css" crc="4241698283" ref="isabel"/>
+    <file name="sobre-la-regi_n.css" crc="143579797" ref="sobre-la-región"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sobre-la-región:cual-es-tu-historia-con-sombrero:isabel"/>
+    <file name="museutils.js" crc="340535759" ref="index:sobre-la-región:cual-es-tu-historia-con-sombrero:isabel"/>
+    <file name="whatinput.js" crc="86476730" ref="index:sobre-la-región:cual-es-tu-historia-con-sombrero:isabel"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:sobre-la-región:cual-es-tu-historia-con-sombrero:isabel"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:sobre-la-región:cual-es-tu-historia-con-sombrero:isabel"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:sobre-la-región:cual-es-tu-historia-con-sombrero:isabel"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index:sobre-la-región:cual-es-tu-historia-con-sombrero:isabel"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:sobre-la-región:isabel"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:sobre-la-región:isabel"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:sobre-la-región:isabel"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:sobre-la-región:cual-es-tu-historia-con-sombrero:isabel"/>
+    <file name="require.js" crc="7928878" ref="index:sobre-la-región:cual-es-tu-historia-con-sombrero:isabel"/>
+    <file name="form_check.php" crc="4020933626" ref="cual-es-tu-historia-con-sombrero"/>
+    <file name="form_throttle.php" crc="4259590256" ref="cual-es-tu-historia-con-sombrero"/>
+    <file name="form_process.php" crc="37464564" ref="cual-es-tu-historia-con-sombrero"/>
+    <file name="form-u1145.php" crc="225731871" ref="cual-es-tu-historia-con-sombrero"/>
+  </folder>
+  <folder name="images">
+    <file name="historias con sombrero_mesa de trabajo 1.png" crc="4101588481" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u973-4.png" crc="451636543" ref="index"/>
+    <file name="u1059-4.png" crc="532577524" ref="index"/>
+    <file name="u2104-4.png" crc="479331136" ref="index"/>
+    <file name="u2111-4.png" crc="153340035" ref="index"/>
+    <file name="u2148-4.png" crc="3940767021" ref="index"/>
+    <file name="u2171-4.png" crc="456175331" ref="index"/>
+    <file name="u2193-4.png" crc="4019034875" ref="index"/>
+    <file name="u2213-4.png" crc="3770004961" ref="index"/>
+    <file name="u2278-6.png" crc="295725901" ref="index"/>
+    <file name="u1435-4.png" crc="3899522791" ref="index"/>
+    <file name="u1438-4.png" crc="341435224" ref="index"/>
+    <file name="u1441-4.png" crc="4147350289" ref="index"/>
+    <file name="u1444-4.png" crc="274058263" ref="index"/>
+    <file name="u1447-4.png" crc="385330991" ref="index"/>
+    <file name="u1453-4.png" crc="4115210763" ref="index"/>
+    <file name="u1456-4.png" crc="4053014504" ref="index"/>
+    <file name="face-8.png" crc="4231046724" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="inst-8.png" crc="3808195273" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1481-4.png" crc="354344551" ref="index"/>
+    <file name="u1484-4.png" crc="4076251855" ref="index"/>
+    <file name="sobre la region-04.png" crc="506469196" ref="sobre-la-región">
+      <caption webpage="sobre-la-región" alt=""/>
+    </file>
+    <file name="volveralinicio-8-u2339-fr.png" crc="4271119015" ref="sobre-la-región:cual-es-tu-historia-con-sombrero"/>
+    <file name="verentrevista-8.png" crc="4076242385" ref="sobre-la-región:isabel">
+      <caption webpage="sobre-la-región" alt=""/>
+    </file>
+    <file name="flechaantesblanca-8.png" crc="4006478896" ref="sobre-la-región:isabel">
+      <caption webpage="sobre-la-región" alt=""/>
+      <caption webpage="sobre-la-región" alt=""/>
+      <caption webpage="isabel" alt=""/>
+      <caption webpage="isabel" alt=""/>
+    </file>
+    <file name="flechadespuesblanca-8.png" crc="4110430602" ref="sobre-la-región:isabel">
+      <caption webpage="sobre-la-región" alt=""/>
+      <caption webpage="sobre-la-región" alt=""/>
+      <caption webpage="isabel" alt=""/>
+      <caption webpage="isabel" alt=""/>
+    </file>
+    <file name="salir-8.png" crc="138147805" ref="sobre-la-región:isabel">
+      <caption webpage="sobre-la-región" alt=""/>
+      <caption webpage="sobre-la-región" alt=""/>
+      <caption webpage="sobre-la-región" alt=""/>
+      <caption webpage="isabel" alt=""/>
+      <caption webpage="isabel" alt=""/>
+      <caption webpage="isabel" alt=""/>
+      <caption webpage="isabel" alt=""/>
+      <caption webpage="isabel" alt=""/>
+      <caption webpage="isabel" alt=""/>
+    </file>
+    <file name="cualestuhistoria-05.png" crc="309345054" ref="cual-es-tu-historia-con-sombrero">
+      <caption webpage="cual-es-tu-historia-con-sombrero" alt=""/>
+    </file>
+    <file name="portadaisabel-04-03.png" crc="3998206227" ref="isabel">
+      <caption webpage="isabel" alt=""/>
+    </file>
+    <file name="volveralinicio-8.png" crc="3863657909" ref="isabel">
+      <caption webpage="isabel" alt=""/>
+    </file>
+    <file name="vercapitulo-8.png" crc="236046992" ref="isabel">
+      <caption webpage="isabel" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4068852236" seo="true" mt="1644383103308" redirect="true"/>
+  <file name="sobre-la-región.html" crc="168079807" seo="true" mt="1644388851874" redirect="true"/>
+  <file name="cual-es-tu-historia-con-sombrero.html" crc="4107185794" seo="true" mt="1644294641299" redirect="true"/>
+  <file name="isabel.html" crc="3760343771" seo="true" mt="1644386850130" redirect="true"/>
+</manifest>
